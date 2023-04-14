@@ -1,9 +1,6 @@
 [
     {
-    "_id": {
-      "$oid": "63dbf159c2fe42a29ea63d64"
-    },
-    "ID_No": "1",
+    "id":"1",
     "Name": "Abac Mendez Ignacio Fabian",
     "Sex": " ",
     "Fed": "MEX",
@@ -12,10 +9,7 @@
     "K": "40"
   },
   {
-    "_id": {
-      "$oid": "63dbf159c2fe42a29ea63d65"
-    },
-    "ID_No": "2",
+    "_id": "2",
     "Name": "Abad Moreno Diana Itzel",
     "Sex": "f",
     "Fed": "MEX",
@@ -24,10 +18,7 @@
     "K": "40"
   },
   {
-    "_id": {
-      "$oid": "63dbf159c2fe42a29ea63d66"
-    },
-    "ID_No": "3",
+    "id":"3",
     "Name": "Abad Vazquez Israel",
     "Sex": " ",
     "Fed": "MEX",
@@ -36,10 +27,7 @@
     "K": "40"
   },
   {
-    "_id": {
-      "$oid": "63dbf159c2fe42a29ea63d67"
-    },
-    "ID_No": "4",
+    "id":"4",
     "Name": "Abadia Castaneda Brando Ma",
     "Sex": " ",
     "Fed": "MEX",
@@ -48,22 +36,7 @@
     "K": "40"
   },
   {
-    "_id": {
-      "$oid": "63dbf159c2fe42a29ea63d67"
-    },
-    "ID_No": "4",
-    "Name": "Abadia Castaneda Brando Ma",
-    "Sex": " ",
-    "Fed": "MEX",
-    "ClubName": "CHS",
-    "Rtg_Nat": "1042",
-    "K": "40"
-  },
-  {
-    "_id": {
-      "$oid": "63dbf159c2fe42a29ea63d68"
-    },
-    "ID_No": "5",
+    "id":"5",
     "Name": "Abadia Salvador Juan Carlo",
     "Sex": " ",
     "Fed": "MEX",
@@ -72,10 +45,7 @@
     "K": "40"
   },
   {
-    "_id": {
-      "$oid": "63dbf159c2fe42a29ea63d69"
-    },
-    "ID_No": "6",
+    "id":"6",
     "Name": "Abadia Vera Sergio Jordy",
     "Sex": " ",
     "Fed": "MEX",
@@ -84,10 +54,7 @@
     "K": "40"
   },
   {
-    "_id": {
-      "$oid": "63dbf159c2fe42a29ea63d6a"
-    },
-    "ID_No": "7",
+    "id":"7",
     "Name": "Abarca Catalan Andres",
     "Sex": " ",
     "Fed": "MEX",
@@ -96,10 +63,7 @@
     "K": "40"
   },
   {
-    "_id": {
-      "$oid": "63dbf159c2fe42a29ea63d6b"
-    },
-    "ID_No": "8",
+    "id": "8",
     "Name": "Abarca Catalan Lorenzo",
     "Sex": " ",
     "Fed": "MEX",
@@ -108,10 +72,7 @@
     "K": "40"
   },
   {
-    "_id": {
-      "$oid": "63dbf159c2fe42a29ea63d6c"
-    },
-    "ID_No": "9",
+    "id": "9",
     "Name": "Abarca Galeana Angel Gabriel",
     "Sex": " ",
     "Fed": "MEX",
@@ -119,10 +80,7 @@
     "K": "40"
   },
   {
-    "_id": {
-      "$oid": "63dbf159c2fe42a29ea63d6d"
-    },
-    "ID_No": "10",
+    "id": "10",
     "Name": "Abarca Garcia Luciano",
     "Sex": " ",
     "Fed": "MEX",
@@ -132,10 +90,7 @@
     "K": "40"
   },
   {
-    "_id": {
-      "$oid": "63dbf159c2fe42a29ea63d6e"
-    },
-    "ID_No": "11",
+    "id":"11",
     "Name": "Abarca Gaytan Ruben",
     "Sex": " ",
     "Fed": "MEX",
@@ -144,10 +99,7 @@
     "K": "40"
   },
   {
-    "_id": {
-      "$oid": "63dbf159c2fe42a29ea63d6f"
-    },
-    "ID_No": "12",
+    "id":"12",
     "Name": "Abarca Gonzalez Sergio",
     "Sex": " ",
     "Fed": "MEX",
@@ -156,10 +108,7 @@
     "K": "40"
   },
   {
-    "_id": {
-      "$oid": "63dbf159c2fe42a29ea63d71"
-    },
-    "ID_No": "13",
+    "id": "13",
     "Name": "Abarca Jose",
     "Sex": " ",
     "Fed": "MEX",
@@ -168,10 +117,7 @@
     "K": "40"
   },
   {
-    "_id": {
-      "$oid": "63dbf159c2fe42a29ea63d72"
-    },
-    "ID_No": "14",
+    "id": "14",
     "Name": "Abarca Lara Pablo",
     "Sex": " ",
     "Fed": "MEX",
