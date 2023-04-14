@@ -1,0 +1,183 @@
+[
+    {
+    "_id": {
+      "$oid": "63dbf159c2fe42a29ea63d64"
+    },
+    "ID_No": "1",
+    "Name": "Abac Mendez Ignacio Fabian",
+    "Sex": " ",
+    "Fed": "MEX",
+    "ClubName": "CDM",
+    "Rtg_Nat": "1340",
+    "K": "40"
+  },
+  {
+    "_id": {
+      "$oid": "63dbf159c2fe42a29ea63d65"
+    },
+    "ID_No": "2",
+    "Name": "Abad Moreno Diana Itzel",
+    "Sex": "f",
+    "Fed": "MEX",
+    "ClubName": "MCH",
+    "Rtg_Nat": "1000",
+    "K": "40"
+  },
+  {
+    "_id": {
+      "$oid": "63dbf159c2fe42a29ea63d66"
+    },
+    "ID_No": "3",
+    "Name": "Abad Vazquez Israel",
+    "Sex": " ",
+    "Fed": "MEX",
+    "ClubName": "GTO",
+    "Rtg_Nat": "1000",
+    "K": "40"
+  },
+  {
+    "_id": {
+      "$oid": "63dbf159c2fe42a29ea63d67"
+    },
+    "ID_No": "4",
+    "Name": "Abadia Castaneda Brando Ma",
+    "Sex": " ",
+    "Fed": "MEX",
+    "ClubName": "CHS",
+    "Rtg_Nat": "1042",
+    "K": "40"
+  },
+  {
+    "_id": {
+      "$oid": "63dbf159c2fe42a29ea63d67"
+    },
+    "ID_No": "4",
+    "Name": "Abadia Castaneda Brando Ma",
+    "Sex": " ",
+    "Fed": "MEX",
+    "ClubName": "CHS",
+    "Rtg_Nat": "1042",
+    "K": "40"
+  },
+  {
+    "_id": {
+      "$oid": "63dbf159c2fe42a29ea63d68"
+    },
+    "ID_No": "5",
+    "Name": "Abadia Salvador Juan Carlo",
+    "Sex": " ",
+    "Fed": "MEX",
+    "ClubName": "CHS",
+    "Rtg_Nat": "1011",
+    "K": "40"
+  },
+  {
+    "_id": {
+      "$oid": "63dbf159c2fe42a29ea63d69"
+    },
+    "ID_No": "6",
+    "Name": "Abadia Vera Sergio Jordy",
+    "Sex": " ",
+    "Fed": "MEX",
+    "ClubName": "CHS",
+    "Rtg_Nat": "1303",
+    "K": "40"
+  },
+  {
+    "_id": {
+      "$oid": "63dbf159c2fe42a29ea63d6a"
+    },
+    "ID_No": "7",
+    "Name": "Abarca Catalan Andres",
+    "Sex": " ",
+    "Fed": "MEX",
+    "ClubName": "UNM",
+    "Rtg_Nat": "1615",
+    "K": "40"
+  },
+  {
+    "_id": {
+      "$oid": "63dbf159c2fe42a29ea63d6b"
+    },
+    "ID_No": "8",
+    "Name": "Abarca Catalan Lorenzo",
+    "Sex": " ",
+    "Fed": "MEX",
+    "ClubName": "CDM",
+    "Rtg_Nat": "1495",
+    "K": "40"
+  },
+  {
+    "_id": {
+      "$oid": "63dbf159c2fe42a29ea63d6c"
+    },
+    "ID_No": "9",
+    "Name": "Abarca Galeana Angel Gabriel",
+    "Sex": " ",
+    "Fed": "MEX",
+    "Rtg_Nat": "1000",
+    "K": "40"
+  },
+  {
+    "_id": {
+      "$oid": "63dbf159c2fe42a29ea63d6d"
+    },
+    "ID_No": "10",
+    "Name": "Abarca Garcia Luciano",
+    "Sex": " ",
+    "Fed": "MEX",
+    "ClubName": "SLP",
+    "Birthday": "22/03/2004",
+    "Rtg_Nat": "1075",
+    "K": "40"
+  },
+  {
+    "_id": {
+      "$oid": "63dbf159c2fe42a29ea63d6e"
+    },
+    "ID_No": "11",
+    "Name": "Abarca Gaytan Ruben",
+    "Sex": " ",
+    "Fed": "MEX",
+    "ClubName": "GRO",
+    "Rtg_Nat": "1000",
+    "K": "40"
+  },
+  {
+    "_id": {
+      "$oid": "63dbf159c2fe42a29ea63d6f"
+    },
+    "ID_No": "12",
+    "Name": "Abarca Gonzalez Sergio",
+    "Sex": " ",
+    "Fed": "MEX",
+    "ClubName": "CHS",
+    "Rtg_Nat": "1192",
+    "K": "40"
+  },
+  {
+    "_id": {
+      "$oid": "63dbf159c2fe42a29ea63d71"
+    },
+    "ID_No": "13",
+    "Name": "Abarca Jose",
+    "Sex": " ",
+    "Fed": "MEX",
+    "ClubName": "CHH",
+    "Rtg_Nat": "1879",
+    "K": "40"
+  },
+  {
+    "_id": {
+      "$oid": "63dbf159c2fe42a29ea63d72"
+    },
+    "ID_No": "14",
+    "Name": "Abarca Lara Pablo",
+    "Sex": " ",
+    "Fed": "MEX",
+    "ClubName": "GRO",
+    "Rtg_Nat": "1000",
+    "K": "40"
+  }
+
+]
